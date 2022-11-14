@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    background-color: #e0dcdc;
+}
+
+.container {
+    background-color: #fff;
+    box-shadow: 1px 1px #000;
+    width: 400px;
+    height: 400px;
+    border-radius: 15px;
+    margin: 70px auto;
+    display: flex;
+    padding: 35px 0;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+button {
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+}
+
+button span {
+    line-height: 1.5;
+    font-weight: 600;
+}
+
+input[type="text" i] {
+    padding: 13px;
+    width: 210px;
+}
+
+.btn button{
+    border-radius: 17px;
+    border: 1px solid #bfb9b9;
+    padding: 7px;
+    width: 248px;
+    height: 33px;
+}
+
+.next-btn button {
+    background-color: #000;
+    color: #fff;
+}
+
+.account {
+    color: #969090;
+}
+
+.apple  button {
+    box-shadow: 1px 1px #645555;
+}
+
+.google button {
+    box-shadow: 1px 1px #645555;
+}
